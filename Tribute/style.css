@@ -1,0 +1,23 @@
+.thumbnail {background-color: #eee;}
+    body {margin-top: 33px;}
+    .thumbnail .caption {background-color: #ddd;}
+.jumbotron .h1, .jumbotron h1{
+color: inherit;
+}
+.text-center{
+    text-align: center;
+}
+.h1 .h2, h1, h2{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+    color: inherit;
+}
+img{
+    align-items: center;
+    size: 100px;
+    width: 100px;
+    height: 100px;
+}
